@@ -89,3 +89,9 @@ while menu!=0:
         print("\n=====================================================================")    
    
     menu=int(input("INGRESE NUEVAMENTE UNA OPCION:  \n 1- Solucion Inorden \n 2- Solucion Preorden \n 3- Solucion Postorden \n 0- SALIR \n Ingrese una opcion: "))    
+
+
+
+
+
+#hola mundo como estan
