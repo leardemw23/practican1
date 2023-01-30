@@ -93,14 +93,22 @@ while menu!=0:
 
 
 
-
+  
 
 #sadsadasdasdsad saddsa 
-#alvaro 
-#LILIANA
-#jostin
+#jhomoara
+
+
+
 
 
 #liliana
 
+#alvaro 
+#LILIANA
 
+
+
+
+#jostin
+#asdasd
